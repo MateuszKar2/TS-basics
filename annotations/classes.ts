@@ -10,6 +10,7 @@ class Vehicle {
 //Zdefiniowany za każdym razem gdy zostanie utworzona nowa instancja klasy
 //Można zdefiniować właściowość w linni 3, albo zainicjalizować w construktorze (linja 5)
 
+  
   protected honk(): void {
     console.log('beep');
   };
